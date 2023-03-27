@@ -1,2 +1,2 @@
 # exercicio
- Exercicio EBAC HTML
+ Exercicio EBAC CSS
