@@ -1,0 +1,1 @@
+function ಠ_ಠ914(){var ಠ_ಠ906=prompt("ಠ_ಠ907 ಠ_ಠ906 ಠ_ಠ909 número:"),ಠ_ಠ910=prompt("ಠ_ಠ907 ಠ_ಠ906 ಠ_ಠ912 número:"),ಠ_ಠ906=parseFloat(ಠ_ಠ906),ಠ_ಠ910=parseFloat(ಠ_ಠ910);isNaN(ಠ_ಠ906)||isNaN(ಠ_ಠ910)?alert("Por favor, insira números válidos."):alert("A soma dos números é: "+(ಠ_ಠ906+ಠ_ಠ910))}ಠ_ಠ914();

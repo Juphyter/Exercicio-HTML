@@ -1,0 +1,17 @@
+@use 'variaveis';
+
+header {
+    background-color: variaveis.$corPrincipal;
+
+    h1 {
+        color: variaveis.$corSecundaria;
+    }
+}
+
+section {
+    background-color: variaveis.$corSection;
+    h3,
+    p {
+        color: variaveis.$corTexto;
+    }
+}
