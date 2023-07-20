@@ -1,2 +1,2 @@
 # Exercicio
- Exercicio EBAC HTML
+ Exercicio EBAC Orientação a Obejeto JS
